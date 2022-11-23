@@ -1,0 +1,17 @@
+{
+    "name": "ruijiangzeng/test-php-image-build",
+    "autoload": {
+        "psr-4": {
+            "Ruijiangzeng\\TestPhpImageBuild\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ruijiangzeng",
+            "email": "zengruijiang@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
